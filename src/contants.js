@@ -1,1 +1,1 @@
-const DB_NAME=""
+const DB_NAME="Notes"
